@@ -1,0 +1,3 @@
+[submodule "claim-portal"]
+	path = claim-portal
+	url = https://github.com/amardeep16/claim-portal
